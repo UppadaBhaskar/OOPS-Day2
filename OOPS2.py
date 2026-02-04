@@ -12,7 +12,7 @@ class Instagram:
         self.title = title
         self.description = description
         self.likes = 0
-        self.creator_name = creator_name 
+        self.creator_name = creator_name
         self.location = location
         self.comments = [] 
     def display_title(self):
