@@ -4,7 +4,7 @@
 # Add a delete method to delete the last comments when ever that method is 
 # called with respective object.
 
-# Class and object
+# Class and object 
 
 
 class Instagram:
